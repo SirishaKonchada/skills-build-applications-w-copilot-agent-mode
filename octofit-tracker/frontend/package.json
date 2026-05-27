@@ -8,9 +8,9 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "react-router-dom": "^6.0.0"
+    "react": "^19",
+    "react-dom": "^19",
+    "react-router-dom": "^6"
   },
   "devDependencies": {
     "vite": "^4.0.0",
